@@ -1,3 +1,11 @@
+<div align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-563D7C?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</div>   
+
 # Facebook Stream Countdown
 
 A simple event countdown page designed to be added as a browser source in OBS while streaming to Facebook. It helps Pages build engagement before an event. Admins can create a countdown or count-up, add a heading, and choose a background image.
